@@ -173,13 +173,10 @@
 	#macro SAVE_FILE_NAME_B "save_B.json"
 	#macro SAVE_FILE_NAME_C "save_c.json"
 	#macro SAVE_DEFAULTS "defaults.json"
+	#macro SAVE_AUTOSAVE "autosave.json"
 	
-	#macro SAVE_POINT "save_point"
-	#macro SAVE_POINT_START 0
-	#macro SAVE_POINT_A 1
-	#macro SAVE_POINT_B 2
-	#macro SAVE_POINT_C 3
-	#macro SAVE_POINT_D 4
+	#macro SAVE_CHNUM "save_chnum"
+	#macro SAVE_LINENUM "save_linenum"
 	
 	//dialogue
 	#macro TEXT_LOADING -1
@@ -195,6 +192,9 @@
 	#macro DISPLAY_ADV 1
 	#macro DISPLAY_NARRATOR 2
 	#macro DISPLAY_CG 3
+	#macro DISPLAY_ADV_SHOUT 4
+	#macro DISPLAY_WRITER 5
+	
 	
 	#macro POSITION_LEFT -1
 	#macro POSITION_LEFTCENTER -0.5
@@ -210,10 +210,11 @@
 	#macro BG_OFFICE_PLAIN 4
 	#macro BG_OFFICE_DECOR 5
 	#macro BG_OFFICE_WAITING 6
-	#macro BG_MEADOW 7
+	#macro BG_HUMAN_VILLAGE 7
 	#macro BG_MISTY_LAKE 8
 	#macro BG_BAMBOO_FOREST 9
 	#macro BG_MORIYA_SHRINE 10
+	
 	#macro CG_CIRNO_DAIYOUSEI 11
 	#macro CG_KAGUYA_MOKOU 12
 	#macro CG_KANAKO_SUWAKO 13
@@ -221,15 +222,36 @@
 	
 	#macro MUS_TEST -1
 	#macro MUS_NONE 0
+	
 	#macro SOUND_TEST -1
 	#macro SOUND_NONE 0
+	
 	#macro TALK_TEST -1
 	#macro TALK_NOSPRITE 0
+	#macro TALK_KOISHI 1
+	#macro TALK_SATORI 2
+	#macro TALK_SAKUYA 3
+	#macro TALK_CIRNO 4
+	#macro TALK_DAIYOUSEI 5
+	#macro TALK_KAGUYA 6
+	#macro TALK_MOKOU 7
+	#macro TALK_RIN 8
+	#macro TALK_UTSUHO 9
+	#macro TALK_KANOKO 10
+	#macro TALK_SUWAKO 11
+	#macro TALK_SANAE 12
 	
 	//scene
-	#macro SCENE_TOTAL 0
-	#macro scene_NOSCENE -1
-	#macro scene_TEST 0
+	#macro SCENE_TOTAL 7
+	#macro SCENE_TEST -1
+	#macro SCENE_NOSCENE 0
+	#macro SCENE_C1_SISMAD 1
+	#macro SCENE_C2_IZAYOI 2
+	#macro SCENE_C3_LAKEFEY 3
+	#macro SCENE_C4_HOURAI 4
+	#macro SCENE_C5_RINPARK 5
+	#macro SCENE_C6_MORIYA 6
+	#macro SCENE_C7_SISSORRY 7
 	
 	
 #endregion
@@ -240,15 +262,19 @@ function scr_initialize() {
 	scr_input_init();
 	scr_files_init();
 	global.scene_mode = false;
-	global.scene_number = scene_NOSCENE;
+	global.scene_number = SCENE_NOSCENE;
 	global.dialogue_mode = false;
 	global.combat_mode = false;
+	global.autosave_load = false;
 	global.savepoint_numbers = 0;
 	global.savepoint_instances[255] = 0;
 	global.load_file_name = "defaults.json";
-	global.file_A_preview = "---";
-	global.file_B_preview = "---";
-	global.file_C_preview = "---";
+	global.file_A_preview_line1 = "---";
+	global.file_B_preview_line1 = "---";
+	global.file_C_preview_line1 = "---";
+	global.file_A_preview_line2 = "---";
+	global.file_B_preview_line2 = "---";
+	global.file_C_preview_line2 = "---";
 }
 
 

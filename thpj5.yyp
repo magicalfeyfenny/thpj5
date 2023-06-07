@@ -19,7 +19,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"scripts","folderPath":"folders/scripts.yy",},
   ],
   "IncludedFiles": [
-    {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"thpj5_intro.txt","CopyToMask":-1,"filePath":"datafiles",},
+    {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"thpj5_intro.txt","CopyToMask":3035426170322551022,"filePath":"datafiles",},
   ],
   "isEcma": false,
   "LibraryEmitters": [],
@@ -65,6 +65,7 @@
     {"id":{"name":"rm_logo","path":"rooms/rm_logo/rm_logo.yy",},},
     {"id":{"name":"fn_menu_large","path":"fonts/fn_menu_large/fn_menu_large.yy",},},
     {"id":{"name":"spr_leftarrow","path":"sprites/spr_leftarrow/spr_leftarrow.yy",},},
+    {"id":{"name":"spr_talk_koishi","path":"sprites/spr_talk_koishi/spr_talk_koishi.yy",},},
     {"id":{"name":"fn_logo_large","path":"fonts/fn_logo_large/fn_logo_large.yy",},},
     {"id":{"name":"rm_init","path":"rooms/rm_init/rm_init.yy",},},
     {"id":{"name":"spr_controller","path":"sprites/spr_controller/spr_controller.yy",},},

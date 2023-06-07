@@ -8,6 +8,7 @@ textlinefadein = 0;
 text_advance_ready = TEXT_LOADING;
 text_auto_mode = AUTO_OFF;
 text_auto_timer = AUTO_SPEED;
+text_loader_skip = global.loaded_file[? SAVE_LINENUM];
 speaker_name = "";
 
 bg_id = BG_NONE;

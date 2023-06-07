@@ -4,3 +4,9 @@ menu_wait = MENU_DELAY;
 dx = 0;
 dy = 0;
 surface_mult = global.options[? OPTIONS_WINDOWMULT];
+
+save_check = false;
+save_allowed = false;
+unpause_allowed = false;
+save_display = 0;
+escape_allowed = false;

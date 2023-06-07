@@ -73,9 +73,12 @@ function scr_menu_draw( _menu, _t, _pos) {
 			draw_text( 120, 300, "Back to title");
 			
 			draw_set_halign( fa_right );
-			draw_text( 350, 60, global.file_A_preview);
-			draw_text( 350, 120, global.file_B_preview);
-			draw_text( 350, 180, global.file_C_preview);
+			draw_text( 350, 60, global.file_A_preview_line1);
+			draw_text( 350, 85, global.file_A_preview_line2);
+			draw_text( 350, 120, global.file_B_preview_line1);
+			draw_text( 350, 145, global.file_B_preview_line2);
+			draw_text( 350, 180, global.file_C_preview_line1);
+			draw_text( 350, 205, global.file_C_preview_line2);
 		
 			draw_set_font(fn_menu_help);
 			draw_set_halign(fa_left);
@@ -112,9 +115,9 @@ function scr_menu_draw( _menu, _t, _pos) {
 			draw_text( 120, 300, "Cancel");
 			
 			draw_set_halign( fa_right );
-			draw_text( 350, 60, global.file_A_preview);
-			draw_text( 350, 120, global.file_B_preview);
-			draw_text( 350, 180, global.file_C_preview);
+			draw_text( 350, 60, global.file_A_preview_line1);
+			draw_text( 350, 120, global.file_B_preview_line1);
+			draw_text( 350, 180, global.file_C_preview_line1);
 			
 			if (confirm) {
 				draw_set_color(c_black);

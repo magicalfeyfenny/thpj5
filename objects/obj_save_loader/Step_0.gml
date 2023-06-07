@@ -3,6 +3,10 @@ countdown--;
 if (countdown == 0 ) {
 	//load file
 	var save_check = scr_files_load( global.load_file_name );
+	if (global.autosave_load == true) {
+		global.autosave_load = false;
+		save_check = scr_files_load( SAVE_AUTOSAVE );
+	}
 	if (save_check == FILE_LOAD_FAIL) {
 		scr_files_load( SAVE_DEFAULTS );
 	}

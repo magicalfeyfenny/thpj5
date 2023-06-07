@@ -13,7 +13,8 @@ function scr_files_init(){
 	}	
 	
 	//initialize default save data 
-	global.default_save[? SAVE_POINT ] = SAVE_POINT_START;
+	global.default_save[? SAVE_CHNUM ] = 1;
+	global.default_save[? SAVE_LINENUM ] = 0;
 	scr_files_load( SAVE_DEFAULTS );
 	
 	//initialize save files

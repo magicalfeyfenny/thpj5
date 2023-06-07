@@ -41,6 +41,7 @@
     {"name":"rm_logo","order":15,"path":"rooms/rm_logo/rm_logo.yy",},
     {"name":"fn_menu_large","order":3,"path":"fonts/fn_menu_large/fn_menu_large.yy",},
     {"name":"spr_leftarrow","order":5,"path":"sprites/spr_leftarrow/spr_leftarrow.yy",},
+    {"name":"spr_talk_koishi","order":1,"path":"sprites/spr_talk_koishi/spr_talk_koishi.yy",},
     {"name":"fn_logo_large","order":2,"path":"fonts/fn_logo_large/fn_logo_large.yy",},
     {"name":"rm_init","order":14,"path":"rooms/rm_init/rm_init.yy",},
     {"name":"spr_controller","order":1,"path":"sprites/spr_controller/spr_controller.yy",},

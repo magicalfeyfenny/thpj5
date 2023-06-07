@@ -27,6 +27,7 @@ if (global.dialogue_mode) {
 		) {
 		text_advance_ready = TEXT_TYPING;
 		
+		//bg files
 		bg_id_last = bg_id;
 		bg_id = ds_queue_dequeue(bg_test);
 		switch ( bg_id ) {
@@ -38,12 +39,54 @@ if (global.dialogue_mode) {
 				bg_sprite = spr_bg_PLACEHOLDER;
 				break;
 			}
+			case BG_KOMEIJI_LIBRARY: {
+				bg_sprite = spr_bg_PLACEHOLDER;
+				break;
+			}
+			case BG_KOMEIJI_OUTSIDE: {
+				bg_sprite = spr_bg_PLACEHOLDER;
+				break;
+			}
+			case BG_JOB_AGENCY: {
+				bg_sprite = spr_bg_PLACEHOLDER;
+				break;
+			}
+			case BG_OFFICE_PLAIN: {
+				bg_sprite = spr_bg_PLACEHOLDER;
+				break;
+			}
+			case BG_OFFICE_DECOR: {
+				bg_sprite = spr_bg_PLACEHOLDER;
+				break;
+			}
+			case BG_OFFICE_WAITING: {
+				bg_sprite = spr_bg_PLACEHOLDER;
+				break;
+			}
+			case BG_MISTY_LAKE: {
+				bg_sprite = spr_bg_PLACEHOLDER;
+				break;
+			}
+			case BG_BAMBOO_FOREST: {
+				bg_sprite = spr_bg_PLACEHOLDER;
+				break;
+			}
+			case BG_MORIYA_SHRINE: {
+				bg_sprite = spr_bg_PLACEHOLDER;
+				break;
+			}
+			case BG_HUMAN_VILLAGE: {
+				bg_sprite = spr_bg_PLACEHOLDER;
+				break;
+			}
+
 			default: {
 				bg_sprite = -1;
 				break;
 			}
 		}
 		
+		//music files
 		mus_id_last = mus_id;
 		mus_id = ds_queue_dequeue(mus_test);
 		if ( mus_id_last != mus_id ) {
@@ -69,6 +112,8 @@ if (global.dialogue_mode) {
 			}
 		}
 		
+		
+		//sound effects
 		sound_id = ds_queue_dequeue(sound_test);
 		switch ( sound_id ) {
 			case SOUND_NONE: {
@@ -88,11 +133,14 @@ if (global.dialogue_mode) {
 			audio_play_sound( sound_playing, 1, false );
 		}
 		
+		//display modes
 		display_mode = ds_queue_dequeue(display_test);
 		if ( display_mode == DISPLAY_NOTEXT && text_auto_mode == AUTO_OFF ) {
 			text_auto_mode = AUTO_NEXT;
 		}
 		
+		
+		//portrait sprites
 		actor_A_pos = ds_queue_dequeue(pos_test);
 		actor_A_sprite_id_last = actor_A_sprite_id;
 		actor_A_sprite_id = ds_queue_dequeue(sprite_test);
@@ -108,6 +156,55 @@ if (global.dialogue_mode) {
 				actor_A_sprite = spr_talk_PLACEHOLDER;
 				break;
 			}
+			case TALK_KOISHI: {
+				actor_A_sprite = spr_talk_koishi;
+				break;
+			}
+			case TALK_SATORI: {
+				actor_A_sprite = spr_talk_PLACEHOLDER;
+				break;
+			}
+			case TALK_SAKUYA: {
+				actor_A_sprite = spr_talk_PLACEHOLDER;
+				break;
+			}
+			case TALK_CIRNO: {
+				actor_A_sprite = spr_talk_PLACEHOLDER;
+				break;
+			}
+			case TALK_DAIYOUSEI: {
+				actor_A_sprite = spr_talk_PLACEHOLDER;
+				break;
+			}
+			case TALK_KAGUYA: {
+				actor_A_sprite = spr_talk_PLACEHOLDER;
+				break;
+			}
+			case TALK_MOKOU: {
+				actor_A_sprite = spr_talk_PLACEHOLDER;
+				break;
+			}
+			case TALK_RIN: {
+				actor_A_sprite = spr_talk_PLACEHOLDER;
+				break;
+			}
+			case TALK_UTSUHO: {
+				actor_A_sprite = spr_talk_PLACEHOLDER;
+				break;
+			}
+			case TALK_KANOKO: {
+				actor_A_sprite = spr_talk_PLACEHOLDER;
+				break;
+			}
+			case TALK_SUWAKO: {
+				actor_A_sprite = spr_talk_PLACEHOLDER;
+				break;
+			}
+			case TALK_SANAE: {
+				actor_A_sprite = spr_talk_PLACEHOLDER;
+				break;
+			}
+			
 			default: {
 				actor_A_sprite = -1;
 				break;
@@ -129,6 +226,55 @@ if (global.dialogue_mode) {
 				actor_B_sprite = spr_talk_PLACEHOLDER;
 				break;
 			}
+			case TALK_KOISHI: {
+				actor_B_sprite = spr_talk_koishi;
+				break;
+			}
+			case TALK_SATORI: {
+				actor_B_sprite = spr_talk_PLACEHOLDER;
+				break;
+			}
+			case TALK_SAKUYA: {
+				actor_B_sprite = spr_talk_PLACEHOLDER;
+				break;
+			}
+			case TALK_CIRNO: {
+				actor_B_sprite = spr_talk_PLACEHOLDER;
+				break;
+			}
+			case TALK_DAIYOUSEI: {
+				actor_B_sprite = spr_talk_PLACEHOLDER;
+				break;
+			}
+			case TALK_KAGUYA: {
+				actor_B_sprite = spr_talk_PLACEHOLDER;
+				break;
+			}
+			case TALK_MOKOU: {
+				actor_B_sprite = spr_talk_PLACEHOLDER;
+				break;
+			}
+			case TALK_RIN: {
+				actor_B_sprite = spr_talk_PLACEHOLDER;
+				break;
+			}
+			case TALK_UTSUHO: {
+				actor_B_sprite = spr_talk_PLACEHOLDER;
+				break;
+			}
+			case TALK_KANOKO: {
+				actor_B_sprite = spr_talk_PLACEHOLDER;
+				break;
+			}
+			case TALK_SUWAKO: {
+				actor_B_sprite = spr_talk_PLACEHOLDER;
+				break;
+			}
+			case TALK_SANAE: {
+				actor_B_sprite = spr_talk_PLACEHOLDER;
+				break;
+			}
+			
 			default: {
 				actor_B_sprite = -1;
 				break;
@@ -150,14 +296,65 @@ if (global.dialogue_mode) {
 				actor_C_sprite = spr_talk_PLACEHOLDER;
 				break;
 			}
+			case TALK_KOISHI: {
+				actor_C_sprite = spr_talk_koishi;
+				break;
+			}
+			case TALK_SATORI: {
+				actor_C_sprite = spr_talk_PLACEHOLDER;
+				break;
+			}
+			case TALK_SAKUYA: {
+				actor_C_sprite = spr_talk_PLACEHOLDER;
+				break;
+			}
+			case TALK_CIRNO: {
+				actor_C_sprite = spr_talk_PLACEHOLDER;
+				break;
+			}
+			case TALK_DAIYOUSEI: {
+				actor_C_sprite = spr_talk_PLACEHOLDER;
+				break;
+			}
+			case TALK_KAGUYA: {
+				actor_C_sprite = spr_talk_PLACEHOLDER;
+				break;
+			}
+			case TALK_MOKOU: {
+				actor_C_sprite = spr_talk_PLACEHOLDER;
+				break;
+			}
+			case TALK_RIN: {
+				actor_C_sprite = spr_talk_PLACEHOLDER;
+				break;
+			}
+			case TALK_UTSUHO: {
+				actor_C_sprite = spr_talk_PLACEHOLDER;
+				break;
+			}
+			case TALK_KANOKO: {
+				actor_C_sprite = spr_talk_PLACEHOLDER;
+				break;
+			}
+			case TALK_SUWAKO: {
+				actor_C_sprite = spr_talk_PLACEHOLDER;
+				break;
+			}
+			case TALK_SANAE: {
+				actor_C_sprite = spr_talk_PLACEHOLDER;
+				break;
+			}
+			
 			default: {
 				actor_C_sprite = -1;
 				break;
 			}
 		}
 		
+		//speaker name
 		speaker_name = ds_queue_dequeue(speaker_test);
 		
+		//spoken text
 		textload = ds_queue_dequeue(text_test);
 		texttarget = string_replace_all(textload, "#", "\n" );
 		
@@ -181,7 +378,7 @@ if (global.dialogue_mode) {
 				spewlength++;
 			}
 			textlinefadein++;
-			if (keyboard_check_pressed(ord("Z")) || keyboard_check(vk_control)) {
+			if (keyboard_check_pressed(ord("Z")) || keyboard_check(vk_control) || text_loader_skip > 0) {
 				textlinefadein = 1000;
 				keyboard_clear(ord("Z"));
 				keyboard_clear(vk_control);
@@ -195,7 +392,7 @@ if (global.dialogue_mode) {
 			textspew += string_char_at(texttarget, spewlength);
 			audio_play_sound( snd_typewriter, 0, false );
 			spewlength++;
-			if (keyboard_check_pressed(ord("Z")) || keyboard_check(vk_control)) {
+			if (keyboard_check_pressed(ord("Z")) || keyboard_check(vk_control) || text_loader_skip > 0) {
 				textspew = texttarget;
 				keyboard_clear(ord("Z"));
 				keyboard_clear(vk_control);
@@ -208,9 +405,14 @@ if (global.dialogue_mode) {
 	
 	if (text_advance_ready == TEXT_READY) {
 		text_auto_timer--;
-		if ( keyboard_check_pressed(ord("Z")) || keyboard_check(vk_control) || (text_auto_timer <= 0 && (text_auto_mode == AUTO_NEXT || text_auto_mode == AUTO_ON)) ) {
+		if ( keyboard_check_pressed(ord("Z")) || keyboard_check(vk_control) || text_loader_skip > 0 || (text_auto_timer <= 0 && (text_auto_mode == AUTO_NEXT || text_auto_mode == AUTO_ON)) ) {
 			if (text_auto_mode == AUTO_NEXT ) {
 				text_auto_mode = AUTO_OFF;
+			}
+			if (text_loader_skip > 0) {
+				text_loader_skip--;
+			} else {
+				global.loaded_file[? SAVE_LINENUM]++;
 			}
 			text_auto_timer = AUTO_SPEED;
 			textlinefadein = 0;
