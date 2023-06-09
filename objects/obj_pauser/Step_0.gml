@@ -5,6 +5,7 @@ if menu_wait <= 0 {
 	save_allowed = true;
 	unpause_allowed = true;
 	escape_allowed = true;
+	logmove_allowed = true;
 }
 
 if (keyboard_check_pressed(ord("S")) && save_allowed == true) {
@@ -43,3 +44,22 @@ if (keyboard_check_pressed(vk_escape) && escape_allowed == true) {
 	}
 	room_goto(rm_title);
 }
+
+if (keyboard_check(vk_up) && logmove_allowed == true) {
+	menu_wait = MENU_DELAY;
+	logmove_allowed = false;
+	log_dy--;
+	if (log_dy < 0) {
+		log_dy = 0;
+	}
+}
+
+if (keyboard_check(vk_down) && logmove_allowed == true) {
+	menu_wait = MENU_DELAY;
+	logmove_allowed = false;
+	log_dy++;
+	if (log_dy > global.loaded_file[? SAVE_LINENUM]) {
+		log_dy = global.loaded_file[? SAVE_LINENUM];
+	}
+}
+	

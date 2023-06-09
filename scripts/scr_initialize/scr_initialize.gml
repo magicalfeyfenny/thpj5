@@ -195,6 +195,7 @@
 	#macro DISPLAY_ADV_SHOUT 4
 	#macro DISPLAY_WRITER 5
 	
+	#macro LOG_LIMIT 1000
 	
 	#macro POSITION_LEFT -1
 	#macro POSITION_LEFTCENTER -0.5
@@ -268,6 +269,8 @@ function scr_initialize() {
 	global.autosave_load = false;
 	global.savepoint_numbers = 0;
 	global.savepoint_instances[255] = 0;
+	global.log_text[LOG_LIMIT] = array_create(LOG_LIMIT);
+	global.log_names[LOG_LIMIT] = array_create(LOG_LIMIT);
 	global.load_file_name = "defaults.json";
 	global.file_A_preview_line1 = "---";
 	global.file_B_preview_line1 = "---";

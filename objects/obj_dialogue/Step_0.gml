@@ -135,7 +135,7 @@ if (global.dialogue_mode) {
 		
 		//display modes
 		display_mode = ds_queue_dequeue(display_test);
-		if ( display_mode == DISPLAY_NOTEXT && text_auto_mode == AUTO_OFF ) {
+		if ( display_mode == DISPLAY_NOTEXT && text_auto_mode == AUTO_OFF ) {		//no text
 			text_auto_mode = AUTO_NEXT;
 		}
 		
@@ -357,6 +357,16 @@ if (global.dialogue_mode) {
 		//spoken text
 		textload = ds_queue_dequeue(text_test);
 		texttarget = string_replace_all(textload, "#", "\n" );
+		
+		//add text to log
+		if (global.log_text[0] != 0 && global.log_names[0] != 0) {
+			for( var r = LOG_LIMIT - 1; r >= 0; r--) {
+				global.log_text[r+1] = global.log_text[r];
+				global.log_names[r+1] = global.log_names[r];
+			}
+		}
+		global.log_text[0] = texttarget;
+		global.log_names[0] = speaker_name;
 		
 		textspew = "";
 		textlines = [ "", "", "", "", "", "", "" ];

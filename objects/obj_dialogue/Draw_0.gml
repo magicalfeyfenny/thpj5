@@ -41,12 +41,12 @@ if (global.dialogue_mode) {
 			draw_set_alpha( (-10 - (80 * i) + textlinefadein) / 60 );
 			draw_text(camera_get_view_x(view_camera) + 320, camera_get_view_y(view_camera) + 180 - (20 * textlinecount) + (40 * (i-1)), textlines[i]);
 		}
+		draw_set_alpha(1);
 	}
 	if (text_advance_ready == TEXT_READY && display_mode != DISPLAY_NOTEXT) {
 		loopdoop++;
-		draw_set_alpha(1);
 		draw_sprite( spr_text_arrow, round((loopdoop % 160) / 20), camera_get_view_x(view_camera) + 540, camera_get_view_y(view_camera) + 300 ); 
-	}
+	}	
 	if (text_auto_mode == AUTO_ON) {
 		draw_sprite( spr_text_auto, 0, camera_get_view_x(view_camera) + 510, camera_get_view_y(view_camera) + 300 );
 	}
@@ -56,7 +56,7 @@ if (global.dialogue_mode) {
 		
 
 //draw tutorial text
-		draw_set_font(fn_help);
-		draw_set_halign(fa_left);
-		draw_text_ext_transformed_color_border( 5, 345, "Z: advance text, C: toggle auto, CTRL: skip", 9, 620, 1, 1, 0, c_blue, c_blue, c_blue, c_blue, tutorial_fadeout / 20, 1, c_white); //6
+	draw_set_font(fn_help);
+	draw_set_halign(fa_left);
+	draw_text_ext_transformed_color_border( 5, 345, "Z: advance text, C: toggle auto, CTRL: skip", 9, 620, 1, 1, 0, c_blue, c_blue, c_blue, c_blue, tutorial_fadeout / 20, 1, c_white); //6
 }

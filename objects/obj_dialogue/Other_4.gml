@@ -36,6 +36,9 @@ actor_C_sprite = -1;
 actor_C_anim_frame = 0;
 actor_C_pos = POSITION_LEFT;
 
+global.log_text[LOG_LIMIT] = array_create(LOG_LIMIT);
+global.log_names[LOG_LIMIT] = array_create(LOG_LIMIT);
+
 bg_test = ds_queue_create();
 mus_test = ds_queue_create();
 sound_test = ds_queue_create();
