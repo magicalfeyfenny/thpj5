@@ -2,8 +2,8 @@ draw_sprite_ext( spr_logo, 0, 320, 180, 4, 4, 0, c_white, min(0.1 * alpha_cycle,
 
 draw_set_halign( fa_center );
 draw_set_font( fn_logo_large );
-draw_text_color( 320, 30,		"thank you for playing" 
-							+	"please believe in yourself"
+draw_text_color( 320, 30,		"thank you for playing\n" 
+							+	"this is unfinished sorry i ran out of time\n"
 						, c_lime, c_green, c_lime, c_green, alpha_cycle);
 				
 				

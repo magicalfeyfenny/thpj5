@@ -1,0 +1,1 @@
+scr_dialogue_start("thpj5_c1.txt");

@@ -1,0 +1,516 @@
+0
+0
+0
+2
+0
+-1
+0
+0
+0
+1
+
+BRRRRRRRRT!
+0
+0
+0
+2
+0
+-1
+6
+0
+0
+1
+
+An airhorn woke Kanoko in a strange, dark room.#She was tied sitting in a steel chair,#her hands bound behind her. 
+0
+0
+0
+1
+0
+-1
+6
+0
+0
+1
+Kanoko Yasaka
+"What is the meaning of this? Where the hell am I?"
+3
+0
+0
+2
+6
+-0.5
+0
+0
+7
+0.5
+
+She looked around. It appeared to be an office,#with furniture hastily gathered.#Beside her, Suwako was in a similar bind,#seemingly frozen in place.
+3
+0
+0
+2
+6
+-0.5
+0
+0
+7
+0.5
+
+She looked around. It appeared to be an office,#with furniture hastily gathered.#Beside her, Suwako was in a similar bind,#seemingly frozen in place.
+3
+0
+0
+2
+3
+-1
+0
+0
+1
+-0.5
+
+Koishi and Sanae stepped out from behind a curtain.
+3
+0
+0
+1
+3
+-1
+1
+-0.5
+6
+1
+Koishi Komeiji
+"Surprise! Welcome to therapy!"
+3
+0
+0
+1
+3
+-1
+1
+-0.5
+6
+1
+Kanoko Yasaka
+"Therapy? Why do we need therapy?"
+3
+0
+0
+2
+0
+-1
+3
+0
+0
+1
+
+Sanae's gut felt the pain of a sturdy punch#before she had time to register what had happened.
+3
+0
+0
+2
+1
+-0.5
+3
+0
+0
+1
+
+Koishi grabbed another chair and tied Sanae up,#placing her next to the gods.#Sanae struggled against the rope binds.
+3
+0
+0
+1
+1
+-0.5
+3
+0
+0
+1
+Sanae Kochiya
+"What are you doing? This wasn't part of the plan!"
+3
+0
+0
+1
+1
+-0.5
+3
+0
+0
+1
+Koishi Komeiji
+"You're part of this family too, you know.#As long as one of you is suffering, you all are"
+3
+0
+0
+2
+0
+-1
+3
+0
+0
+1
+
+Sanae's emotions, hot with betrayal,#cooled to a warm understanding,#kept simmering from the pain.
+3
+0
+0
+2
+0
+-1
+6
+0
+0
+1
+
+Kanoko's emotions, spiked red with righteous anger,#drove her to a spiral of confusion.
+3
+0
+0
+2
+0
+-1
+7
+0
+0
+1
+
+Suwako saw the signs of panic in her mind,#and before she acted as unnerved as she was,#she made her emotions settle on a path#of logical, feigned calm.#She knew better than to fall to shock tactics.
+3
+0
+0
+1
+1
+-1
+0
+0
+6
+1
+Kanoko Yasaka
+"Okay, seriously though, where the hell are we?"
+3
+0
+0
+1
+1
+-1
+0
+0
+6
+1
+Koishi Komeiji
+"In the Human Village's medical district.#Yuuka's letting us use her office."
+3
+0
+0
+2
+0
+-1
+0
+0
+0
+1
+
+The denizens of Moriya looked around.#On the shelves, they noticed a collection of#human psychology textbooks, next to#various degrees from the outside world#that all bore Yuuka's name.
+3
+0
+0
+2
+0
+-1
+7
+0
+0
+1
+
+Suwako smiled. Her plan crystallized in her mind.#it was time to execute her escape.
+3
+0
+0
+1
+0
+-1
+7
+0
+0
+1
+Suwako Moriya
+"I suppose the real question is, whose fault was this?#Do we have the unthinking satori to blame?"
+3
+0
+0
+1
+0
+-1
+7
+0
+0
+1
+Suwako Moriya
+"Or was it the tired girl attending to our every whim,#no matter how much it took or how late it got?"
+3
+0
+0
+1
+0
+-1
+7
+0
+0
+1
+Suwako Moriya
+"My guess is more on us.#We've gone bad, I'm afraid"
+3
+0
+0
+1
+7
+-0.5
+0
+0
+6
+0.5
+Kanoko Yasaka
+"Right! And we're really *really* sorry about this,#so can we go? I'm sure little Sanae's getting tired"
+3
+0
+0
+1
+7
+-1
+3
+0
+6
+1
+Sanae Kochiya
+"Who are you calling 'little'? I'm an adult by#human standards. Besides, Suwako's smaller."
+3
+0
+0
+1
+7
+-1
+3
+0
+6
+1
+Suwako Moriya
+"You say that with a brave face, but you just got#sucker-punched by your accomplice"
+3
+0
+0
+1
+3
+-1
+7
+-0.5
+1
+1
+Koishi Komeiji
+"L-let's move past that for now. Please remain calm.#This is something that we think you might need."
+3
+0
+0
+1
+3
+-1
+7
+-0.5
+1
+1
+Suwako Moriya
+"What exactly do we need, anyway?"
+3
+0
+0
+1
+3
+-1
+7
+-0.5
+1
+1
+Koishi Komeiji
+"Therapy! That's why we're here!"
+3
+0
+0
+1
+7
+-1
+6
+-0.5
+1
+1
+Kanoko Yasaka
+"Do you even know how to do talk therapy?"
+3
+0
+0
+1
+7
+-1
+6
+-0.5
+1
+1
+Koishi Komeiji
+"L-let's also move past that for now."
+3
+0
+0
+2
+7
+-1
+6
+-0.5
+1
+1
+
+She'd lost. 
+3
+0
+0
+2
+0
+-1
+7
+-0
+0
+1
+
+Suwako's chair transformed into ball bearings,#the ropes falling off around her.
+3
+0
+0
+2
+0
+-1
+6
+-0
+0
+1
+
+Kanoko flexed her muscles, ropes bursting off.
+3
+0
+0
+2
+6
+-0.5
+7
+0.5
+3
+0
+
+The Moriya gods picked up the chair Sanae was#tied to and walked towards the office door.#Koishi rushed to catch them at the door.
+3
+0
+0
+1
+7
+-1
+6
+-0.5
+1
+1
+Suwako Moriya
+"I understand your intentions are in good faith.#But we don't need group therapy from you."
+3
+0
+0
+1
+7
+-1
+6
+-0.5
+1
+1
+Koishi Komeiji
+"Please. Just give me a chance. #I don't exactly know what's going on, but I can tell."
+3
+0
+0
+1
+7
+-1
+6
+-0.5
+1
+1
+Koishi Komeiji
+"You all feel strongly towards each other as found family.#You feel love, familiarity, loyalty, and even contempt."
+3
+0
+0
+1
+7
+-1
+6
+-0.5
+1
+1
+Koishi Komeiji
+"If you all look at each other --"
+3
+0
+0
+2
+7
+-1
+3
+0
+6
+1
+
+Sanae looked at Suwako and Kanoko, then at Koishi.#Koishi sounded earnest, but Sanae could tell#something else was eating at the girl,#and that it would get in the way of#whatever she could offer.
+3
+0
+0
+2
+7
+-1
+3
+0
+6
+1
+
+She yawned.
+3
+0
+0
+1
+7
+-1
+3
+0
+6
+1
+Sanae Kochiya
+"Let's go. I can't do this anymore."
+3
+0
+0
+2
+1
+-1
+0
+0
+0
+1
+
+Moriya's gods left the office, leaving Koishi#and her plans behind for the trip back home.
+0
+0
+0
+2
+0
+-1
+0
+0
+0
+1
+
+(to be continued...)

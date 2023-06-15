@@ -56,7 +56,7 @@ if (global.dialogue_mode) {
 		
 
 //draw tutorial text
-	draw_set_font(fn_help);
+	draw_set_font(fn_menu_help);
 	draw_set_halign(fa_left);
-	draw_text_ext_transformed_color_border( 5, 345, "Z: advance text, C: toggle auto, CTRL: skip", 9, 620, 1, 1, 0, c_blue, c_blue, c_blue, c_blue, tutorial_fadeout / 20, 1, c_white); //6
+	draw_text_ext_transformed_color_border( 5, 345, "Z: advance text, C: toggle auto, CTRL: skip, P: pause/save/log, ESC: quit", 9, 620, 1, 1, 0, c_blue, c_blue, c_blue, c_blue, tutorial_fadeout / 20, 1, c_white); //6
 }

@@ -205,21 +205,9 @@
 	
 	#macro BG_TEST -1
 	#macro BG_NONE 0
-	#macro BG_KOMEIJI_OUTSIDE 1
-	#macro BG_KOMEIJI_LIBRARY 2
-	#macro BG_JOB_AGENCY 3
-	#macro BG_OFFICE_PLAIN 4
-	#macro BG_OFFICE_DECOR 5
-	#macro BG_OFFICE_WAITING 6
-	#macro BG_HUMAN_VILLAGE 7
-	#macro BG_MISTY_LAKE 8
-	#macro BG_BAMBOO_FOREST 9
-	#macro BG_MORIYA_SHRINE 10
-	
-	#macro CG_CIRNO_DAIYOUSEI 11
-	#macro CG_KAGUYA_MOKOU 12
-	#macro CG_KANAKO_SUWAKO 13
-	#macro CG_KOMEIJI_HIKIKOMORI 14
+	#macro BG_CHIREIDEN 1
+	#macro BG_MORIYA_SHRINE 2
+	#macro BG_THERAPY_OFFICE 3
 	
 	#macro MUS_TEST -1
 	#macro MUS_NONE 0
@@ -231,28 +219,22 @@
 	#macro TALK_NOSPRITE 0
 	#macro TALK_KOISHI 1
 	#macro TALK_SATORI 2
-	#macro TALK_SAKUYA 3
-	#macro TALK_CIRNO 4
-	#macro TALK_DAIYOUSEI 5
-	#macro TALK_KAGUYA 6
-	#macro TALK_MOKOU 7
-	#macro TALK_RIN 8
-	#macro TALK_UTSUHO 9
-	#macro TALK_KANOKO 10
-	#macro TALK_SUWAKO 11
-	#macro TALK_SANAE 12
+	#macro TALK_SANAE 3
+	#macro TALK_RIN 4
+	#macro TALK_UTSUHO 5
+	#macro TALK_KANOKO 6
+	#macro TALK_SUWAKO 7
 	
 	//scene
-	#macro SCENE_TOTAL 7
+	#macro SCENE_TOTAL 3
 	#macro SCENE_TEST -1
 	#macro SCENE_NOSCENE 0
 	#macro SCENE_C1_SISMAD 1
-	#macro SCENE_C2_IZAYOI 2
-	#macro SCENE_C3_LAKEFEY 3
-	#macro SCENE_C4_HOURAI 4
-	#macro SCENE_C5_RINPARK 5
-	#macro SCENE_C6_MORIYA 6
-	#macro SCENE_C7_SISSORRY 7
+	#macro SCENE_C2_SHRINEMAD 2
+	#macro SCENE_C3_THERAPY1 3
+	#macro SCENE_C4_RINPARK 4
+	#macro SCENE_C5_THERAPY2 5
+	#macro SCENE_C6_SISSORRY 6
 	
 	
 #endregion

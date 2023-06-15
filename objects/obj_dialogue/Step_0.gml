@@ -39,44 +39,16 @@ if (global.dialogue_mode) {
 				bg_sprite = spr_bg_PLACEHOLDER;
 				break;
 			}
-			case BG_KOMEIJI_LIBRARY: {
-				bg_sprite = spr_bg_PLACEHOLDER;
-				break;
-			}
-			case BG_KOMEIJI_OUTSIDE: {
-				bg_sprite = spr_bg_PLACEHOLDER;
-				break;
-			}
-			case BG_JOB_AGENCY: {
-				bg_sprite = spr_bg_PLACEHOLDER;
-				break;
-			}
-			case BG_OFFICE_PLAIN: {
-				bg_sprite = spr_bg_PLACEHOLDER;
-				break;
-			}
-			case BG_OFFICE_DECOR: {
-				bg_sprite = spr_bg_PLACEHOLDER;
-				break;
-			}
-			case BG_OFFICE_WAITING: {
-				bg_sprite = spr_bg_PLACEHOLDER;
-				break;
-			}
-			case BG_MISTY_LAKE: {
-				bg_sprite = spr_bg_PLACEHOLDER;
-				break;
-			}
-			case BG_BAMBOO_FOREST: {
-				bg_sprite = spr_bg_PLACEHOLDER;
+			case BG_CHIREIDEN: {
+				bg_sprite = spr_bg_chireiden;
 				break;
 			}
 			case BG_MORIYA_SHRINE: {
-				bg_sprite = spr_bg_PLACEHOLDER;
+				bg_sprite = spr_bg_moriya;
 				break;
 			}
-			case BG_HUMAN_VILLAGE: {
-				bg_sprite = spr_bg_PLACEHOLDER;
+			case BG_THERAPY_OFFICE: {
+				bg_sprite = spr_bg_therapy;
 				break;
 			}
 
@@ -161,47 +133,27 @@ if (global.dialogue_mode) {
 				break;
 			}
 			case TALK_SATORI: {
-				actor_A_sprite = spr_talk_PLACEHOLDER;
-				break;
-			}
-			case TALK_SAKUYA: {
-				actor_A_sprite = spr_talk_PLACEHOLDER;
-				break;
-			}
-			case TALK_CIRNO: {
-				actor_A_sprite = spr_talk_PLACEHOLDER;
-				break;
-			}
-			case TALK_DAIYOUSEI: {
-				actor_A_sprite = spr_talk_PLACEHOLDER;
-				break;
-			}
-			case TALK_KAGUYA: {
-				actor_A_sprite = spr_talk_PLACEHOLDER;
-				break;
-			}
-			case TALK_MOKOU: {
-				actor_A_sprite = spr_talk_PLACEHOLDER;
-				break;
-			}
-			case TALK_RIN: {
-				actor_A_sprite = spr_talk_PLACEHOLDER;
-				break;
-			}
-			case TALK_UTSUHO: {
-				actor_A_sprite = spr_talk_PLACEHOLDER;
-				break;
-			}
-			case TALK_KANOKO: {
-				actor_A_sprite = spr_talk_PLACEHOLDER;
-				break;
-			}
-			case TALK_SUWAKO: {
-				actor_A_sprite = spr_talk_PLACEHOLDER;
+				actor_A_sprite = spr_talk_satori;
 				break;
 			}
 			case TALK_SANAE: {
-				actor_A_sprite = spr_talk_PLACEHOLDER;
+				actor_A_sprite = spr_talk_sanae;
+				break;
+			}
+			case TALK_RIN: {
+				actor_A_sprite = spr_talk_rin;
+				break;
+			}
+			case TALK_UTSUHO: {
+				actor_A_sprite = spr_talk_utsuho;
+				break;
+			}
+			case TALK_KANOKO: {
+				actor_A_sprite = spr_talk_kanoko;
+				break;
+			}
+			case TALK_SUWAKO: {
+				actor_A_sprite = spr_talk_suwako;
 				break;
 			}
 			
@@ -231,47 +183,27 @@ if (global.dialogue_mode) {
 				break;
 			}
 			case TALK_SATORI: {
-				actor_B_sprite = spr_talk_PLACEHOLDER;
-				break;
-			}
-			case TALK_SAKUYA: {
-				actor_B_sprite = spr_talk_PLACEHOLDER;
-				break;
-			}
-			case TALK_CIRNO: {
-				actor_B_sprite = spr_talk_PLACEHOLDER;
-				break;
-			}
-			case TALK_DAIYOUSEI: {
-				actor_B_sprite = spr_talk_PLACEHOLDER;
-				break;
-			}
-			case TALK_KAGUYA: {
-				actor_B_sprite = spr_talk_PLACEHOLDER;
-				break;
-			}
-			case TALK_MOKOU: {
-				actor_B_sprite = spr_talk_PLACEHOLDER;
-				break;
-			}
-			case TALK_RIN: {
-				actor_B_sprite = spr_talk_PLACEHOLDER;
-				break;
-			}
-			case TALK_UTSUHO: {
-				actor_B_sprite = spr_talk_PLACEHOLDER;
-				break;
-			}
-			case TALK_KANOKO: {
-				actor_B_sprite = spr_talk_PLACEHOLDER;
-				break;
-			}
-			case TALK_SUWAKO: {
-				actor_B_sprite = spr_talk_PLACEHOLDER;
+				actor_B_sprite = spr_talk_satori;
 				break;
 			}
 			case TALK_SANAE: {
-				actor_B_sprite = spr_talk_PLACEHOLDER;
+				actor_B_sprite = spr_talk_sanae;
+				break;
+			}
+			case TALK_RIN: {
+				actor_B_sprite = spr_talk_rin;
+				break;
+			}
+			case TALK_UTSUHO: {
+				actor_B_sprite = spr_talk_utsuho;
+				break;
+			}
+			case TALK_KANOKO: {
+				actor_B_sprite = spr_talk_kanoko;
+				break;
+			}
+			case TALK_SUWAKO: {
+				actor_B_sprite = spr_talk_suwako;
 				break;
 			}
 			
@@ -301,47 +233,27 @@ if (global.dialogue_mode) {
 				break;
 			}
 			case TALK_SATORI: {
-				actor_C_sprite = spr_talk_PLACEHOLDER;
-				break;
-			}
-			case TALK_SAKUYA: {
-				actor_C_sprite = spr_talk_PLACEHOLDER;
-				break;
-			}
-			case TALK_CIRNO: {
-				actor_C_sprite = spr_talk_PLACEHOLDER;
-				break;
-			}
-			case TALK_DAIYOUSEI: {
-				actor_C_sprite = spr_talk_PLACEHOLDER;
-				break;
-			}
-			case TALK_KAGUYA: {
-				actor_C_sprite = spr_talk_PLACEHOLDER;
-				break;
-			}
-			case TALK_MOKOU: {
-				actor_C_sprite = spr_talk_PLACEHOLDER;
-				break;
-			}
-			case TALK_RIN: {
-				actor_C_sprite = spr_talk_PLACEHOLDER;
-				break;
-			}
-			case TALK_UTSUHO: {
-				actor_C_sprite = spr_talk_PLACEHOLDER;
-				break;
-			}
-			case TALK_KANOKO: {
-				actor_C_sprite = spr_talk_PLACEHOLDER;
-				break;
-			}
-			case TALK_SUWAKO: {
-				actor_C_sprite = spr_talk_PLACEHOLDER;
+				actor_C_sprite = spr_talk_satori;
 				break;
 			}
 			case TALK_SANAE: {
-				actor_C_sprite = spr_talk_PLACEHOLDER;
+				actor_C_sprite = spr_talk_sanae;
+				break;
+			}
+			case TALK_RIN: {
+				actor_C_sprite = spr_talk_rin;
+				break;
+			}
+			case TALK_UTSUHO: {
+				actor_C_sprite = spr_talk_utsuho;
+				break;
+			}
+			case TALK_KANOKO: {
+				actor_C_sprite = spr_talk_kanoko;
+				break;
+			}
+			case TALK_SUWAKO: {
+				actor_C_sprite = spr_talk_suwako;
 				break;
 			}
 			
@@ -369,7 +281,7 @@ if (global.dialogue_mode) {
 		global.log_names[0] = speaker_name;
 		
 		textspew = "";
-		textlines = [ "", "", "", "", "", "", "" ];
+		textlines = [ "", "", "", "", "", "", "", "" ];
 		textlinecount = 1;
 		spewlength = 1;
 	} 

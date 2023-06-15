@@ -6,7 +6,7 @@
 function scr_menu_draw( _menu, _t, _pos) {
 	switch (_menu) {
 		case MENU_LOGO: {
-			draw_sprite_ext(spr_temp_art, 0, 320, 180, title_xscale, title_yscale, title_angle, c_white, 1);
+			draw_sprite_ext(spr_title, 0, 320, 180, title_xscale, title_yscale, title_angle, c_white, 1);
 			break;
 		}
 		case MENU_START: {
