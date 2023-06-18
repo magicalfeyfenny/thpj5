@@ -208,6 +208,7 @@
 	#macro BG_CHIREIDEN 1
 	#macro BG_MORIYA_SHRINE 2
 	#macro BG_THERAPY_OFFICE 3
+	#macro BG_MISTY_LAKE 4
 	
 	#macro MUS_TEST -1
 	#macro MUS_NONE 0

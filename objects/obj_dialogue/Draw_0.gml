@@ -24,9 +24,9 @@ if (global.dialogue_mode) {
 		draw_sprite(spr_text_box, 0, camera_get_view_x(view_camera) + 30, camera_get_view_y(view_camera) + 220);
 	
 		draw_set_font(fn_dialogue_names);
-		draw_text( camera_get_view_x(view_camera) + 85, camera_get_view_y(view_camera) + 225, speaker_name );
+		draw_text_ext_transformed_color_border(camera_get_view_x(view_camera) + 85, camera_get_view_y(view_camera) + 230, speaker_name , 30, 555, 1, 1, 0, c_white, c_white, c_white, c_white, draw_get_alpha(), 1, c_black);
 		draw_set_font(fn_dialogue_text);
-		draw_text( camera_get_view_x(view_camera) + 75, camera_get_view_y(view_camera) + 265, textspew );
+		draw_text_ext_transformed_color_border( camera_get_view_x(view_camera) + 75, camera_get_view_y(view_camera) + 265, textspew , 30, 555, 1, 1, 0, c_white, c_white, c_white, c_white, draw_get_alpha(), 1, c_black);
 	}
 // Draw NVL mode (fade-out full-screen text)
 	if ( display_mode == DISPLAY_NARRATOR) {
@@ -39,7 +39,7 @@ if (global.dialogue_mode) {
 		draw_set_halign(fa_center);
 		for(var i = 1; i <= textlinecount + 1; i++) {
 			draw_set_alpha( (-10 - (80 * i) + textlinefadein) / 60 );
-			draw_text(camera_get_view_x(view_camera) + 320, camera_get_view_y(view_camera) + 180 - (20 * textlinecount) + (40 * (i-1)), textlines[i]);
+			draw_text_ext_transformed_color_border(camera_get_view_x(view_camera) + 320, camera_get_view_y(view_camera) + 180 - (20 * textlinecount) + (40 * (i-1)), textlines[i], 30, 555, 1, 1, 0, c_white, c_white, c_white, c_white, draw_get_alpha(), 1, c_black);
 		}
 		draw_set_alpha(1);
 	}

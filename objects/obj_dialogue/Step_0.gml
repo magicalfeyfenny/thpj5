@@ -51,6 +51,10 @@ if (global.dialogue_mode) {
 				bg_sprite = spr_bg_therapy;
 				break;
 			}
+			case BG_TEST: {
+				bg_sprite = spr_bg_mistylake;
+				break;				
+			}
 
 			default: {
 				bg_sprite = -1;
