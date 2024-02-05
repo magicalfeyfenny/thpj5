@@ -50,18 +50,6 @@ She looked around. It appeared to be an office,#with furniture hastily gathered.
 0
 0
 2
-6
--0.5
-0
-0
-7
-0.5
-
-She looked around. It appeared to be an office,#with furniture hastily gathered.#Beside her, Suwako was in a similar bind,#seemingly frozen in place.
-3
-0
-0
-2
 3
 -1
 0
@@ -502,15 +490,3 @@ Sanae Kochiya
 1
 
 Moriya's gods left the office, leaving Koishi#and her plans behind for the trip back home.
-0
-0
-0
-2
-0
--1
-0
-0
-0
-1
-
-(to be continued...)

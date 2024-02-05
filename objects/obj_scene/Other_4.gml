@@ -39,16 +39,16 @@ if (!global.scene_mode && global.loaded_file[? SAVE_CHNUM] == SCENE_C3_THERAPY1)
 	timeline_index = tml_scene_c3;
 	timeline_running = true;
 }
-if (!global.scene_mode && global.loaded_file[? SAVE_CHNUM] == SCENE_C4_RINPARK) {	
+if (!global.scene_mode && global.loaded_file[? SAVE_CHNUM] == SCENE_C4_LAKE) {	
 	global.scene_mode = true;
-	global.scene_number = SCENE_C4_RINPARK;
+	global.scene_number = SCENE_C4_LAKE;
 	timeline_position = 0;
 	timeline_index = tml_scene_c4;
 	timeline_running = true;
 }
-if (!global.scene_mode && global.loaded_file[? SAVE_CHNUM] == SCENE_C5_THERAPY2) {	
+if (!global.scene_mode && global.loaded_file[? SAVE_CHNUM] == SCENE_C5_SORRY) {	
 	global.scene_mode = true;
-	global.scene_number = SCENE_C5_THERAPY2;
+	global.scene_number = SCENE_C5_SORRY;
 	timeline_position = 0;
 	timeline_index = tml_scene_c5;
 	timeline_running = true;

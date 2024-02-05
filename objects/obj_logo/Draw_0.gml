@@ -9,8 +9,8 @@ draw_text_color( 320, 30,		"The following is a Touhou Project fan-game\n"
 				
 draw_set_font( fn_logo_small );
 draw_set_halign( fa_center );
-draw_text_color( 320, 230,	"JAM RELEASE BUILD\n"
-						+	"Touhou Pride Jam 5\n"
+draw_text_color( 320, 230,	"POST-JAM BUILD\n"
+						+	"Originally created for Touhou Pride Jam 5\n"
 						+	"1 June 2023 ~ 14 June 2023", c_lime, c_green, c_lime, c_green, alpha_cycle);
 
 draw_set_halign( fa_right );

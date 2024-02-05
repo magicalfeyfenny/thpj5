@@ -34,11 +34,13 @@ function scr_menu_draw( _menu, _t, _pos) {
 			//implemented menu functions:		
 			draw_text_ext_transformed_color_border( 580 + (3 * TITLE_MENU_CHOICE_FILES		), 90 + (30 * TITLE_MENU_CHOICE_FILES		),	TITLE_MENU_TEXT_FILES		,15, 1000, 1, 1, 0, c_silver, c_silver, c_white, c_white, 1, 1, c_dkgray);	//1
 //			draw_text_ext_transformed_color_border( 580 + (3 * TITLE_MENU_CHOICE_CG			), 90 + (30 * TITLE_MENU_CHOICE_CG			),	TITLE_MENU_TEXT_CG			,15, 1000, 1, 1, 0, c_silver, c_silver, c_white, c_white, 1, 1, c_dkgray); //2
-			draw_text_ext_transformed_color_border( 580 + (3 * TITLE_MENU_CHOICE_MUSIC		), 90 + (30 * TITLE_MENU_CHOICE_MUSIC		),	TITLE_MENU_TEXT_MUSIC		,15, 1000, 1, 1, 0, c_silver, c_silver, c_white, c_white, 1, 1, c_dkgray); //3
+//			draw_text_ext_transformed_color_border( 580 + (3 * TITLE_MENU_CHOICE_MUSIC		), 90 + (30 * TITLE_MENU_CHOICE_MUSIC		),	TITLE_MENU_TEXT_MUSIC		,15, 1000, 1, 1, 0, c_silver, c_silver, c_white, c_white, 1, 1, c_dkgray); //3
 			draw_text_ext_transformed_color_border( 580 + (3 * TITLE_MENU_CHOICE_OPTIONS	), 90 + (30 * TITLE_MENU_CHOICE_OPTIONS		),	TITLE_MENU_TEXT_OPTIONS		,15, 1000, 1, 1, 0, c_silver, c_silver, c_white, c_white, 1, 1, c_dkgray); //4
 			draw_text_ext_transformed_color_border( 580 + (3 * TITLE_MENU_CHOICE_EXIT_GAME	), 90 + (30 * TITLE_MENU_CHOICE_EXIT_GAME	),	TITLE_MENU_TEXT_EXIT_GAME	,15, 1000, 1, 1, 0, c_silver, c_silver, c_white, c_white, 1, 1, c_dkgray); //5
 			//unimplemented menu functions:
-			draw_text_ext_transformed_color_border( 580 + (3 * TITLE_MENU_CHOICE_CG			), 90 + (30 * TITLE_MENU_CHOICE_CG			),	TITLE_MENU_TEXT_CG			,15, 1000, 1, 1, 0, c_silver, c_silver, c_white, c_white, 1, 1, c_gray); //2
+//			draw_text_ext_transformed_color_border( 580 + (3 * TITLE_MENU_CHOICE_CG			), 90 + (30 * TITLE_MENU_CHOICE_CG			),	TITLE_MENU_TEXT_CG			,15, 1000, 1, 1, 0, c_silver, c_silver, c_white, c_white, 1, 1, c_gray); //2
+//			draw_text_ext_transformed_color_border( 580 + (3 * TITLE_MENU_CHOICE_MUSIC		), 90 + (30 * TITLE_MENU_CHOICE_MUSIC		),	TITLE_MENU_TEXT_MUSIC		,15, 1000, 1, 1, 0, c_silver, c_silver, c_white, c_white, 1, 1, c_dkgray); //3
+
 
 			draw_set_font(fn_menu_help);
 			draw_set_halign(fa_left);

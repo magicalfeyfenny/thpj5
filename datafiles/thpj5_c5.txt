@@ -1,0 +1,432 @@
+4
+0
+0
+2
+0
+-1
+3
+0
+0
+1
+
+Sanae had just woken up from the noise#to the harsh scent of burned pine#and Koishi waving her arms,#in front of the powerful pets of Satori.
+4
+0
+0
+1
+1
+-1
+0
+0
+3
+1
+Koishi Komeiji
+"I know this experience has been a lot for all of us.#It wasn't a well thought out plan, I guess that's on me."
+4
+0
+0
+1
+1
+-1
+0
+0
+3
+1
+Koishi Komeiji
+"I'm sorry about kidnapping all of you. I'm sorry for subjecting#you to weird situations to get you to talk to each other."
+4
+0
+0
+1
+1
+-1
+0
+0
+3
+1
+Koishi Komeiji
+"I'm sorry for tying you all up like that"
+4
+0
+0
+2
+1
+-1
+0
+0
+3
+1
+
+Sanae struggled to move her arms,#tightly bound against the steel chair.
+4
+0
+0
+1
+1
+-1
+0
+0
+3
+1
+Koishi Komeiji
+"Which I should probably address."
+4
+0
+0
+2
+1
+0
+0
+0
+3
+0.5
+
+Koishi ran up to Sanae and untied her swiftly. #Sanae rubbed her arms where the ropes had chaffed her skin.#She then threw a punch at Koishi's arm, leaving a stinging welt.
+4
+0
+0
+1
+1
+-0.5
+0
+0
+3
+0.5
+Sanae Kochiya
+"That's for earlier. Please don't do that again."
+4
+0
+0
+1
+1
+-0.5
+0
+0
+3
+0.5
+Koishi Komeiji
+"I guess I kinda deserved that..."
+4
+0
+0
+2
+1
+-0.5
+0
+0
+3
+0.5
+
+Sanae smiled and gripped Koishi's hand in her own.#She stared directly into Koishi's eyes.
+4
+0
+0
+1
+1
+-0.5
+0
+0
+3
+0.5
+Sanae Kochiya
+"A bit of stimulus to train your subconscious."
+4
+0
+0
+1
+1
+-0.5
+0
+0
+3
+0.5
+Sanae Kochiya
+"You're not entirely to blame for this whole mess either.#You just go with what your emotions tell you."
+4
+0
+0
+1
+1
+-0.5
+0
+0
+3
+0.5
+Sanae Kochiya
+"If anything, I'm the one who wrote up the plan.#At least the broad strokes."
+4
+0
+0
+1
+1
+-0.5
+0
+0
+3
+0.5
+Sanae Kochiya
+"If there wasn't anything wrong, you wouldn't have#shown interest due to your nature."
+4
+0
+0
+1
+1
+-0.5
+0
+0
+3
+0.5
+Sanae Kochiya
+"I'm not sure what to do about the whole situation, though..."
+4
+0
+0
+2
+6
+-0.75
+0
+0
+7
+0.75
+
+Kanoko gave Suwako a knowing glance.#The two of them stepped up to the girls together.
+4
+0
+0
+1
+6
+-0.75
+0
+0
+7
+0.75
+Kanoko Yasaka
+"We're sorry too. We've been complete assholes lately."
+4
+0
+0
+1
+6
+-0.75
+0
+0
+7
+0.75
+Suwako Moriya
+"We've been posturing to maintain a story of ancient history,#when what we should have done is celebrated the present."
+4
+0
+0
+1
+6
+-0.75
+0
+0
+7
+0.75
+Suwako Moriya
+"What we have now is the ability to collaborate.#We should be working together to build our future."
+4
+0
+0
+1
+6
+-0.75
+3
+0
+7
+0.75
+Kanoko Yasaka
+"Sanae, we're truly sorry. We know this has all been#really hard on you. It isn't fair to you to keep you up like this."
+4
+0
+0
+2
+6
+-0.25
+1
+0
+7
+0.25
+
+Suwako and Kanoko hugged Koishi tightly.
+4
+0
+0
+1
+6
+-0.75
+1
+0
+7
+0.75
+Suwako Moriya
+"Koishi, thank you. You really did help us,#even if you don't really know how."
+4
+0
+0
+2
+6
+-0.25
+1
+0
+7
+0.25
+
+Koishi accepted the hug gratefully.#She then explained the situation about her sister.#She asked the gods what they could do.#They shook their heads when they realized#even they could not read her mind.
+4
+0
+0
+2
+1
+-0.5
+0
+0
+3
+0.5
+
+Sanae pulled a pocket camera out and took a picture,#She gave it to Koishi and showed her#a memory forever sealed in a plastic case.
+4
+0
+0
+2
+1
+-0.5
+0
+0
+3
+0.5
+
+Koishi took the object and let it infuse her with desire.#She let her consciousness into an electrical one.#She could use this device to access#that which no one could before
+4
+0
+0
+2
+1
+-0.75
+2
+0
+3
+1
+
+Satori floated down behind the group.#Koishi turned, noticing her presence.
+4
+0
+0
+2
+1
+0.25
+2
+-0.25
+0
+0
+
+The sisters hugged, crying and smiling.#Koishi lifted the camera and it took a photo#as bidden by her desire to capture the moment#she apologized to her sister.
+4
+0
+0
+2
+1
+0.25
+2
+-0.25
+0
+0
+
+The sisters hugged, crying and smiling.#Koishi lifted the camera and it took a photo#as bidden by her desire to capture the moment#she apologized to her sister.
+2
+0
+0
+2
+0
+0
+0
+0
+0
+0
+
+The pets, gods, and satori floated home#Outside of the Moriya shrine,#the gods had a party to celebrate#their renewed relationship iwth each other.
+2
+0
+0
+2
+0
+0
+0
+0
+0
+0
+
+Kanoko and Suwako danced in the moonlight#scheming with a knowing look in each other's eyes#as Sanae and the sisters partied the night away.
+2
+0
+0
+2
+4
+-0.75
+0
+0
+5
+0.75
+
+Rin and Utsuho sat on a bench next to each other,#snacking on the delicious foods the gods had made.
+2
+0
+0
+1
+4
+-0.75
+0
+0
+5
+0.75
+Rin Kaenbyou
+"I guess we really brought everything together mya~"
+2
+0
+0
+1
+4
+-0.75
+0
+0
+5
+0.75
+Utsuho Reiuji
+"I don't really know what happened, but I guess so"
+2
+0
+0
+1
+4
+-0.75
+0
+0
+5
+0.75
+Utsuho Reiuji
+"Everything turned out fine in the end,#and our mistresses are safe and happy."
+2
+0
+0
+1
+4
+-0.75
+0
+0
+5
+0.75
+Rin Kaenbyou
+"Yeah..."
+2
+0
+0
+2
+4
+-0.5
+0
+0
+5
+0.5
+
+The satori sisters' pets gently kissed in the moonlight.

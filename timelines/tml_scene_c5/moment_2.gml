@@ -1,1 +1,1 @@
-scr_dialogue_start("thpj5_test.txt");
+scr_dialogue_start("thpj5_c5.txt");

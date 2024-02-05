@@ -61,7 +61,7 @@ if (title_mode == TITLE_MODE_MENU_READY ) {
 				scr_files_load_preview();
 				break;
 			}
-			case TITLE_MENU_CHOICE_CG: {
+/*			case TITLE_MENU_CHOICE_CG: {
 				title_switch_timer = MENU_TRANSITION;
 				title_mode = TITLE_MODE_CG_FADEIN;
 				break;
@@ -72,6 +72,7 @@ if (title_mode == TITLE_MODE_MENU_READY ) {
 				menu_wait = MENU_DELAY;
 				break;
 			}
+*/
 			case TITLE_MENU_CHOICE_OPTIONS: {
 				title_switch_timer = MENU_TRANSITION;
 				title_mode = TITLE_MODE_OPTIONS_FADEIN;
@@ -156,6 +157,7 @@ if ( title_mode == TITLE_MODE_FILES_READY ) {
 					title_switch_timer = MENU_TRANSITION;
 					title_mode = TITLE_MODE_FILES_FADEOUT;
 					menu_wait = MENU_DELAY;
+					menu_position = 1;
 					break;
 				}
 				default: {

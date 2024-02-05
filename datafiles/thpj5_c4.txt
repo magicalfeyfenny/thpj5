@@ -1,0 +1,816 @@
+4
+0
+0
+1
+3
+-1
+6
+-0.5
+7
+1
+Sanae Kochiya
+"Are we there yet?"
+4
+0
+0
+1
+3
+-1
+6
+-0.5
+7
+1
+Kanoko Yasaka
+"No."
+4
+0
+0
+1
+3
+-1
+6
+-0.5
+7
+1
+Sanae Kochiya
+"Are we there yet?"
+4
+0
+0
+1
+3
+-1
+6
+-0.5
+7
+1
+Kanoko Yasaka
+"No."
+4
+0
+0
+2
+3
+-1
+6
+-0.5
+7
+1
+
+This had been going for the last 2 hours. 
+4
+0
+0
+2
+3
+-1
+6
+-0.5
+7
+1
+
+Suwako groaned.
+4
+0
+0
+1
+3
+-1
+6
+-0.5
+7
+1
+Suwako Moriya
+"Whose idea was it to walk anyway?!#We *are* able to fly, you know."
+4
+0
+0
+1
+3
+-1
+6
+-0.5
+7
+1
+Kanoko Yasaka
+"Sanae's still tied up."
+4
+0
+0
+1
+3
+-1
+6
+-0.5
+7
+1
+Suwako Moriya
+"Then untie her."
+4
+0
+0
+1
+3
+-1
+6
+-0.5
+7
+1
+Sanae Kochiya
+"Actually this is kinda comfortable at this point."
+4
+0
+0
+2
+3
+-1
+6
+-0.5
+7
+1
+
+Kanoko shrugged, hefting the weight of Sanae in her chair.
+4
+0
+0
+2
+3
+-1
+6
+-0.5
+7
+1
+
+They all knew that they could just fly away. #They all knew that there was nothing stopping them.
+4
+0
+0
+2
+3
+-1
+6
+-0.5
+7
+1
+
+They didn't, though.#Even Suwako wasn't taking the initative to actually#lift off. They all just continued their leisurely pace#around the Misty Lake 
+4
+0
+0
+2
+3
+-1
+6
+-0.5
+7
+1
+
+Kanoko sighed.
+4
+0
+0
+1
+3
+-1
+6
+-0.5
+7
+1
+Kanoko Yasaka
+"It's a nice day out, but it feels... I don't know... heavy."
+4
+0
+0
+1
+3
+-1
+6
+-0.5
+7
+1
+Suwako Moriya
+"The unthinking satori's magic is manipulation of#the subconscious, and I suspect we're being affected"
+4
+0
+0
+1
+3
+-1
+6
+-0.5
+7
+1
+Suwako Moriya
+"I know she isn't doing this consciously. She#doesn't -- can't have --  intent beyond need or desire."
+4
+0
+0
+1
+3
+-1
+6
+-0.5
+7
+1
+Kanoko Yasaka
+"Nothing beyond what her own subconscious gleaned.#Which says much more about us than about her."
+4
+0
+0
+1
+3
+-1
+6
+-0.5
+7
+1
+Suwako Moriya
+"We cooperate without having to question each other.#We understand and work towards the same goals."
+4
+0
+0
+1
+3
+-1
+6
+-0.5
+7
+1
+Suwako Moriya
+"We act out against each other to maintain a status quo.#We argue and fight despite our shared interests."
+4
+0
+0
+1
+3
+-1
+6
+-0.5
+7
+1
+Kanoko Yasaka
+"And in the mean time, we ignore our priestess, who#gave up the world outside just to be around us."
+4
+0
+0
+1
+3
+-1
+6
+-0.5
+7
+1
+Kanoko Yasaka
+"We watch as she hurts herself just trying to keep up."
+4
+0
+0
+2
+6
+-1
+0
+-0.5
+7
+1
+
+They stopped in their tracks.#After a long silence, Suwako laughed.
+4
+0
+0
+1
+6
+-1
+0
+-0.5
+7
+1
+Kanoko Yasaka
+"What's so funny?"
+4
+0
+0
+1
+6
+-1
+0
+-0.5
+7
+1
+Suwako Moriya
+"Maybe we really *do* need therapy."
+0
+0
+0
+0
+0
+-1
+0
+-0.5
+0
+1
+
+
+4
+0
+0
+2
+0
+-1
+1
+0
+0
+1
+
+Koishi had been slowly floating across the lake#to find the geyser that led back to former Hell.
+4
+0
+0
+2
+0
+-1
+1
+0
+0
+1
+
+She felt aimless. Rather than find a blessing for Satori,#she managed to insult some of the most powerful#beings in Gensokyo with a plan that made#her look like a complete fool. 
+4
+0
+0
+2
+0
+-1
+1
+0
+0
+1
+
+She looked up. In the distance, she saw raptors' wings. #The wings started increasing in size, #slowly at first, then much, much faster.
+4
+0
+0
+1
+0
+-1
+0
+0
+0
+1
+? ? ?
+"LOOK OUT BELOW!!!!!"
+4
+0
+0
+2
+0
+-1
+0
+0
+0
+1
+
+A large object shot into the water in front of Koishi,#causing a massive splash and a jet of steam from#the lake. In the distance, some fairies were#thrown ashore by the resulting waves.
+4
+0
+0
+2
+0
+-1
+5
+0
+0
+1
+
+Utsuho Reiuji spread her wings, splashing Koishi#with droplets of what water didn't instantly vaporize#from the radiating energy she possessed.#Koishi recognized her sister's pet bird instantly.
+4
+0
+0
+2
+0
+-1
+4
+0
+0
+1
+
+Her partner-in-crime, a cat named Rin Kaenbyou,#floated gently down to meet Koishi. She was carrying#caway some corpses that had recently passed.
+4
+0
+0
+1
+1
+-1
+4
+0.5
+5
+1
+Utsuho Reiuji
+"Hiiii~ We're just dropping by"
+4
+0
+0
+1
+1
+-1
+5
+1
+4
+0.5
+Rin Kaenbyou
+"In multiple ways."
+4
+0
+0
+1
+1
+-1
+5
+1
+4
+0.5
+Koishi Komeiji
+"Thanks for checking on me... I suppose Satori wants#me to get home soon so she could say 'told you so'."
+4
+0
+0
+1
+1
+-1
+5
+1
+4
+0.5
+Rin Kaenbyou
+"Actually... that's what we came here to talk about.#She actually wants to apologize to you."
+4
+0
+0
+1
+1
+-1
+4
+0.5
+5
+1
+Utsuho Reiuji
+"She's not feeling well so she couldn't come in person.#But she wants you to come back."
+4
+0
+0
+1
+1
+-1
+5
+1
+4
+0.5
+Rin Kaenbyou
+"She was mostly scuffed about you not remembering stuff well,#but she knows you can't control it."
+4
+0
+0
+1
+1
+-1
+4
+0.5
+5
+1
+Koishi Komeiji
+"I'm thankful, really. But I can't come back yet."
+4
+0
+0
+1
+1
+-1
+5
+1
+4
+0.5
+Rin Kaenbyou
+"You were headed that direction mya~"
+4
+0
+0
+1
+1
+-1
+4
+0.5
+5
+1
+Koishi Komeiji
+"Even if I do go home, I still can't remember things#on-demand. It just isn't possible even if she wishes it."
+4
+0
+0
+1
+1
+-1
+4
+0.5
+5
+1
+Koishi Komeiji
+"I can't let this happen again. I don't want to give her#the same reason to hate me in the future."
+4
+0
+0
+1
+1
+-1
+4
+0.5
+5
+1
+Koishi Komeiji
+"I need to find the gods of the mountain again and#apologize for my own trespasses into their lives."
+4
+0
+0
+1
+1
+-1
+4
+0.5
+5
+1
+Koishi Komeiji
+"I know I'm not trained to help them.#I just wanted to do something that would."
+4
+0
+0
+1
+1
+-1
+4
+0.5
+5
+1
+Koishi Komeiji
+"but talking to them made realize just how little I#actually can help..."
+4
+0
+0
+2
+1
+-1
+5
+-0.25
+4
+1
+
+Utsuho placed a hand on Koishi's shoulder.
+4
+0
+0
+1
+1
+-1
+5
+-0.25
+4
+1
+Utusho Reiuji
+"I'm not sure what's going on, but take us with you.#Be empowered by our presences."
+4
+0
+0
+1
+1
+-1
+5
+-0.25
+4
+1
+Rin Kaenbyou
+"We've got your back. Unless you die, then, y'know,#I'll just be giving you a ride."
+4
+0
+0
+2
+1
+-1
+5
+-0.25
+4
+1
+
+Koishi smiled, tears coming to her eyes.
+4
+0
+0
+1
+1
+-1
+5
+-0.25
+4
+1
+Koishi Komeiji
+"Thank you all. I'm sorry for all this trouble."
+4
+0
+0
+2
+1
+-1
+5
+-0.25
+4
+1
+
+The three sped across the lake.#Utsuho's crow eyes surveyed the landscape.#Hunting the snake that granted her power.
+0
+0
+0
+0
+0
+-1
+0
+-0.5
+0
+1
+
+
+4
+0
+0
+2
+3
+-1
+7
+0.25
+0
+0
+
+Sanae was slumbering in her chair.#Suwako was pacing back and forth, #digging a path in the grass#beside the Misty Lake's shore
+4
+0
+0
+1
+3
+-1
+7
+0.75
+0
+0
+Suwako Moriya
+"The proper thing to do would probably be to go back.#It'd be weird apologizing to our kidnapper though."
+4
+0
+0
+2
+6
+-1
+7
+0.25
+0
+0
+
+Kanoko was laying in the grass, basking in the sun.
+4
+0
+0
+1
+6
+-1
+7
+0.75
+0
+0
+Kanoko Yasaka
+"Would she even still be there? If she's headed home,#she'd be heading towards Youkai Mountain like us."
+4
+0
+0
+1
+6
+-1
+7
+0.25
+0
+0
+Kanoko Yasaka
+"Besides, you had mentioned the effects of her#personal magic. It'd be strong enough that she's close"
+4
+0
+0
+0
+6
+-1
+7
+-0.5
+5
+-1.5
+
+
+4
+0
+0
+0
+6
+-1
+7
+-0.5
+5
+-0.5
+
+
+4
+0
+0
+0
+6
+-1
+7
+-0.5
+5
+0.5
+
+
+4
+0
+0
+0
+6
+-1
+7
+-0.5
+5
+1.5
+
+
+4
+0
+0
+2
+3
+-1
+0
+0
+4
+1
+
+As if on queue, Utsuho dived in at full speed,#a blazing meteor dragging Rin and Koishi in tow.#The two landed and did a pose they had clearly practiced.
+4
+0
+0
+2
+3
+-1
+5
+0
+4
+1
+
+Utsuho swept upward, narrowly missing the forest, #and landed between Koishi and Rin, matching their#choreography with a powerful stance, #wings spread, arms folded,#and a bright, beaming smile on her face.
+4
+0
+0
+1
+3
+-1
+5
+0
+4
+1
+Suwako Moriya
+"Oh for the love of --"
+4
+0
+0
+2
+0
+-1
+0
+0
+0
+1
+
+A streak across the tops of the trees had ignited.#Suwako quickly extinguished it with#a splash of water from the lake.
+4
+0
+0
+2
+0
+-1
+1
+0
+0
+1
+
+Koishi stepped forward to meet the trio again,#the evaporating mist and the glow of Utsuho's#control rod creating a bright rainbow aura around her.
+4
+0
+0
+1
+0
+-1
+1
+0
+0
+1
+Koishi Komeiji
+"Everyone, I'm sorry. Thank you for waiting for me."
